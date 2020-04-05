@@ -1,0 +1,29 @@
+---
+- name: San Jose 
+  country_id: "47"
+  id: "471"
+  abbr: SJO
+- name: Alajuela
+  country_id: "47"
+  id: "472"
+  abbr: ALJ
+- name: Cartago
+  country_id: "47"
+  id: "473"
+  abbr: CTG
+- name: Heredia
+  country_id: "47"
+  id: "474"
+  abbr: HRD
+- name: Guanacaste
+  country_id: "47"
+  id: "475"
+  abbr: GCT
+- name: Puntarenas
+  country_id: "47"
+  id: "476"
+  abbr: PTN
+- name: Limon
+  country_id: "47"
+  id: "477"
+  abbr: LMN
